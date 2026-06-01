@@ -6,7 +6,7 @@ A modern, responsive landing page for **MainCrafts**, a digital product and tech
 
 ## 🌐 Live Demo
 
-LINK:animated-sopapillas-124b72.netlify.app
+Link : animated-sopapillas-124b72.netlify.app
 
 
 ---
