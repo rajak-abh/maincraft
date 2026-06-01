@@ -6,28 +6,28 @@ A modern, responsive landing page for **MainCrafts**, a digital product and tech
 
 ## 🌐 Live Demo
 
-**Website:** Add your GitHub Pages URL here
-
-Example:
-
+LINK:animated-sopapillas-124b72.netlify.app
 
 
 ---
 
-## 📸 Screenshots
-
 ### Desktop View
-
-Add a screenshot of the desktop version here.
-
-### Mobile View
 
 <img width="1891" height="904" alt="image" src="https://github.com/user-attachments/assets/3ddb6f73-309c-4d5e-8eb1-d840fe53d81c" />
 
 <img width="1877" height="899" alt="image" src="https://github.com/user-attachments/assets/dd263f17-32e8-41c4-96c8-8599175626b1" />
+
 <img width="1891" height="910" alt="image" src="https://github.com/user-attachments/assets/cc6156be-795e-4313-8063-fe01f5fc09f0" />
 
 ---
+
+### Mobile View
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd86c95f-7905-4353-b8d1-6ce474d21216" />
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/1d5e8c7d-e739-4573-b973-a87c8aa5e38f" />
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/140bcdbe-ccac-421f-9243-a267d59c27ed" />
+
 
 ## 📖 Overview
 
@@ -296,7 +296,7 @@ GitHub:
 https://github.com/rajak-abh
 
 LinkedIn:
-Add your LinkedIn profile link here
+www.linkedin.com/in/abhi123cs
 
 ---
 
