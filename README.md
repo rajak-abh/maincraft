@@ -10,7 +10,7 @@ A modern, responsive landing page for **MainCrafts**, a digital product and tech
 
 Example:
 
-https://rajak-abh.github.io/maincraft/
+
 
 ---
 
